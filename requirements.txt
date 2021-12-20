@@ -2,3 +2,11 @@ panel
 hvplot
 scikit-learn
 nbconvert
+pandas
+seaborn
+matplotlib
+requests
+json
+param
+numpy
+pip
