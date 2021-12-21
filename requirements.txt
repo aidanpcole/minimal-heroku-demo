@@ -1,3 +1,4 @@
+-i https://pypi.python.org/simple/
 pandas
 seaborn
 matplotlib
@@ -9,4 +10,4 @@ pip
 hvplot
 nba_api
 nbconvert
-json 
+
