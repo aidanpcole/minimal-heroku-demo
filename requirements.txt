@@ -1,7 +1,7 @@
 hvplot
-json-c==0.15
-json5==0.9.5
-jsonschema==3.2.0
+json-c<=0.15
+json5<=0.9.5
+jsonschema<=3.2.0
 matplotlib==3.4.3
 nbconvert==5.6.1
 numpy==1.21.2
@@ -11,7 +11,7 @@ param==1.11.1
 python==3.8.12
 requests==2.26.0
 seaborn==0.11.2
-simplejson==3.17.5
+simplejson<=3.17.5
 websocket-client==0.57.0
 jupyter-panel-proxy==0.1.0
 jupyter-server-proxy==3.1.0
