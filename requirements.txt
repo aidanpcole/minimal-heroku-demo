@@ -4,7 +4,7 @@ matplotlib
 requests
 param
 numpy
-panal
+panel
 pip
 hvplot
 nba_api
