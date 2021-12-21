@@ -1,6 +1,6 @@
+builtins
 panel
 hvplot
-scikit-learn
 nbconvert
 pandas
 seaborn
@@ -10,3 +10,4 @@ json
 param
 numpy
 pip
+nba_api.stats.endpoints.shotchartdetail
