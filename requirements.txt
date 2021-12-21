@@ -6,7 +6,6 @@ pandas
 seaborn
 matplotlib
 requests
-json
 param
 numpy
 pip
