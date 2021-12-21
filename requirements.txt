@@ -9,3 +9,4 @@ pip
 hvplot
 nba_api
 nbconvert
+json 
