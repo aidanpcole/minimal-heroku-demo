@@ -8,3 +8,4 @@ panal
 pip
 hvplot
 nba_api
+nbconvert
